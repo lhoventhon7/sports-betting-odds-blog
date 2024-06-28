@@ -18,8 +18,8 @@ document.addEventListener("DOMContentLoaded", function() {
 });
 
 const sportybetCodes = [
-  { code: "SP12345" },
-  { code: "SP67890" },
+  { code: "60B40811" },
+  { code: "A7FEB1B" },
 ];
 
 const betwayCodes = [
