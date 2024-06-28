@@ -28,7 +28,7 @@ document.addEventListener("DOMContentLoaded", function() {
   }
 
   // Example codes
-  const sportyBetCodes = ["60B40811", "A7FEB1B"];
+  const sportyBetCodes = ["60B40811", "A7FEB1B", "17AC454"];
   const betwayCodes = ["Loading", ];
   const bcGamesCodes = ["Loading", ];
   const stakeCodes = ["Loading", ];
