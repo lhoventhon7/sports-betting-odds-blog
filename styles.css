@@ -42,3 +42,9 @@ header, .announcement, footer {
 .bg-primary {
   background-color: #007bff !important;
 }
+
+.code-list {
+  border-radius: 5px;
+  padding: 10px;
+  background: #f8f9fa;
+}
