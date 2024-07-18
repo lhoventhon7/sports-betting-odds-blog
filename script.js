@@ -1,9 +1,9 @@
 document.addEventListener("DOMContentLoaded", function() {
   const adUrls = [
-    "https://www.highrevenuenetwork.com/wf2ryecw?key=828386790ff0db853067c3f48fb50486",
-    "https://www.highrevenuenetwork.com/xiu12xnvrj?key=2e31ef89c102bf4965f9eef261eca304",
-    "https://www.highrevenuenetwork.com/tccmp1rezd?key=aba8f3ebfdac72701a803bf401855c5d",
-    "https://www.highrevenuenetwork.com/k42qjgqx3n?key=bde59e0741a7cffd00dcf4512509e928"
+    "https://coofoagleeh.com/4/7303793",
+    "https://isoukrunge.net/4/7303820",
+    "https://oudsutch.com/4/7303676",
+    "https://ejitsirdosha.net/4/7304566"
   ];
   
   function reloadAd(iframeId, adUrl) {
@@ -28,8 +28,8 @@ document.addEventListener("DOMContentLoaded", function() {
   }
 
   // Example codes
-  const sportyBetCodes = ["Loading", ];
-  const betwayCodes = ["Loading", ];
+  const sportyBetCodes = ["C7578D5","BFF9147","D47106"  ];
+  const betwayCodes = ["U1A6C3E6B", "U1A6C3A32 "  ];
   const bcGamesCodes = ["Loading", ];
   const stakeCodes = ["Loading", ];
 
