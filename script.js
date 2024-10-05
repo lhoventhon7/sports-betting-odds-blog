@@ -35,14 +35,14 @@ document.addEventListener("DOMContentLoaded", function () {
 
   // Example codes
   const sportyBetCodes = [
-    { code: "C7578D5", adUrl: adUrls[0] },
-    { code: "BFF9147", adUrl: adUrls[0] },
-    { code: "D47106", adUrl: adUrls[0] }
+    { code: "5AD36A6", adUrl: adUrls[0] },
+    { code: "5B6E98C", adUrl: adUrls[0] },
+    { code: "5AE2A02", adUrl: adUrls[0] }
   ];
 
   const betwayCodes = [
-    { code: "U1A6C3E6B", adUrl: adUrls[1] },
-    { code: "U1A6C3A32", adUrl: adUrls[1] }
+    { code: "X7F6A5BD2", adUrl: adUrls[1] },
+    { code: "U1AF15A68", adUrl: adUrls[1] }
   ];
 
   const bcGamesCodes = [{ code: "Loading", adUrl: adUrls[2] }];
